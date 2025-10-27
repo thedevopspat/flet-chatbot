@@ -1,8 +1,8 @@
 # flet-chatbot
 
-A Simple One-File Prototype chat interface powered by Flet.
+A Simple One-File Prototype chat interface powered by [Flet](https://flet.dev).
 
-Feel free to use this simple app as a starter to build your chatbots with Flet.
+Feel free to use this simple app as a starter to build your chatbots with [Flet](https://flet.dev).
 
 ## Demo
 
