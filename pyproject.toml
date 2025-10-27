@@ -1,0 +1,20 @@
+[project]
+name = "flet-chatbot"
+version = "0.1.0"
+description = "A Simple One-File Prototype chat interface powered by Flet"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flet>=0.28.3",
+]
+
+[tool.ruff]
+# Set the line length
+line-length = 88
+# Enable Pycodestyle (E) and Pyflakes (F) rules by default.
+# Add more as you see fit (e.g., "I" for isort, "B" for flake8-bugbear)
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.ruff.format]
+# Use double quotes for strings
+quote-style = "double"
